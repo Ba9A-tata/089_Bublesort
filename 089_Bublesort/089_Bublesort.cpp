@@ -30,5 +30,8 @@ void input() { //Prosedur untuk input
 		cin >> arr[i]; // output dari pengguna
 
 	}
+}
+void  bubblesortArray() { // prosedur untuk mengurutkan array dengan metode bubble sort 
+	int pass = 1; // step 1 
 
 }
