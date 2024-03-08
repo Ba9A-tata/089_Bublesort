@@ -36,7 +36,8 @@ void  bubblesortArray() { // prosedur untuk mengurutkan array dengan metode bubb
 
 	do {
 		for (int j = 0; j <= n - 1 - pass; j++) { // step 2 
-
+		if (arr[j] > arr[j + 1]) { // step 3 
+		}
 		}
 
 	}
